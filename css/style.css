@@ -5,7 +5,7 @@ body{
 
 .header {
     background-image: url('../img/pattern.png');
-    background-color: blue;
+    background-color: rgb(18, 142, 224);
     background-size: contain;
     background-position: center;
     margin: 0 auto;
@@ -13,6 +13,10 @@ body{
 
 #logo{
     width: 200px;
+}
+
+.author{
+    color: grey;
 }
 
 .booleaner {
