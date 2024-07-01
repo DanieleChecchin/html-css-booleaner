@@ -36,9 +36,16 @@ body{
 }
 
 .th{
-    background-color: blue;
+    background-color: rgb(0, 152, 190);
+    width: 24%;
+    color: aliceblue;
+}
+.thfinale{
+    background-color:   rgb(0, 152, 190);
+    width: 50%;
+    color: aliceblue;
 }
 
 .celle{
-    background-color: aqua;
+    background-color:  rgb(44, 179, 212);
 }
