@@ -24,9 +24,21 @@ body{
 }
 
 .first{
-    width: 40%;
+    width: 400px;
 }
 
 .evidenziato{
     background-color: yellow;
+}
+
+.list{
+    padding: 20px;
+}
+
+.th{
+    background-color: blue;
+}
+
+.celle{
+    background-color: aqua;
 }
