@@ -1,9 +1,28 @@
-header{
+body{
+    margin: 0 auto;
+    width: 70%;
+}
+
+.header {
     background-image: url('../img/pattern.png');
     background-color: blue;
     background-size: contain;
+    background-position: center;
+    margin: 0 auto;
 }
 
 #logo{
-    width: 500px;
+    width: 200px;
+}
+
+.booleaner {
+    color: rgb(16, 121, 187);
+}
+
+.first{
+    width: 40%;
+}
+
+.evidenziato{
+    background-color: yellow;
 }
